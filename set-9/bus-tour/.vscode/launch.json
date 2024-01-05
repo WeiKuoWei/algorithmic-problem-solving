@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/weikuo/Library/CloudStorage/GoogleDrive-ck3294@nyu.edu/My Drive/onedrive/Document/NYUAD/Courses/fall-2023/algorithm-problem-solving/assignments/problem-set-9/bus-tour",
+      "program": "/Users/weikuo/Library/CloudStorage/GoogleDrive-ck3294@nyu.edu/My Drive/onedrive/Document/NYUAD/Courses/fall-2023/algorithm-problem-solving/assignments/problem-set-9/bus-tour/build/Debug/outDebug"
+    }
+  ]
+}
